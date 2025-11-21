@@ -118,10 +118,6 @@ Contributions are welcome! Feel free to:
 - 💡 Suggest new features
 - 🔧 Submit pull requests
 
-## 📝 License
-
-This project is open source and available under the [MIT License].
-
 ## 🙏 Credits
 
 - Original C++ version by [Mihir Chaturvedi](https://github.com/plibither8/2048.cpp)
