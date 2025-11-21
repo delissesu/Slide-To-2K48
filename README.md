@@ -49,7 +49,7 @@ Terminal version of the game "2048" written in **Python** with **MVC Pattern**.
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/delissesu/Slide-To-2K48.git
    cd 2048
    ```
 
