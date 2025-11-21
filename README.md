@@ -125,7 +125,7 @@ This project is open source and available under the [MIT License].
 ## 🙏 Credits
 
 - Original C++ version by [Mihir Chaturvedi](https://github.com/plibither8/2048.cpp)
-- Python port and refactoring by [@YourUsername]
+- Python port and refactoring by [Delissesu](https://github.com/delissesu)
 - ASCII art powered by [pyfiglet](https://github.com/pwaller/pyfiglet)
 
 ---
