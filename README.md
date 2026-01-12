@@ -83,19 +83,6 @@ When you run the game, you'll see a menu:
 ### Goal
 Combine tiles with the same number to reach **2048**!
 
-## 📂 Project Structure
-
-```
-2048/
-├── main.py         # Entry point
-├── config.py       # Constants & colors
-├── model.py        # Game logic (Board & GameModel)
-├── view.py         # Terminal UI rendering
-├── controller.py   # Input handling & game loop
-├── save.py         # Save/load system
-└── savegame.json   # Save file (auto-generated)
-```
-
 ## 🏗️ Architecture
 
 **MVC Pattern** (Model-View-Controller):
@@ -103,13 +90,6 @@ Combine tiles with the same number to reach **2048**!
 - **View** (`view.py`): Renders the terminal UI with ASCII art and colors
 - **Controller** (`controller.py`): Manages user input and game flow
 
-## 💡 Code Style
-
-This project uses a **beginner-friendly** approach:
-- **camelCase** naming convention (e.g., `boardSize`, `addRandomTile()`)
-- **Indonesian narrative comments** on important sections
-- **Straightforward procedural logic** - no fancy comprehensions or lambdas
-- **Clear separation of concerns** via MVC pattern
 
 ## 🤝 Contributing
 
@@ -123,9 +103,3 @@ Contributions are welcome! Feel free to:
 - Original C++ version by [Mihir Chaturvedi](https://github.com/plibither8/2048.cpp)
 - Python port and refactoring by [Delissesu](https://github.com/delissesu)
 - ASCII art powered by [pyfiglet](https://github.com/pwaller/pyfiglet)
-
----
-
-**Made with ❤️ and Python**
-
-*Happy gaming! 🎮*
